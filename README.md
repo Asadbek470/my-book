@@ -1,5 +1,4 @@
-# my-book
-<!DOCTYPE html>
+# How Be Rich?
 <html lang="en">
 <head>
     <meta charset="UTF-8">
